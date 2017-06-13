@@ -33,4 +33,4 @@ The program uses HTML, CSS, Bootstrap, javascript and Jquery.
 
 MIT
 
-Copyright &copy 2017 **Jacob Ruleaux & Nathan Stewart**
+Copyright &copy; 2017 **Jacob Ruleaux & Nathan Stewart**
